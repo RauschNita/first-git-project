@@ -1,0 +1,23 @@
+commit 9984de8f950c88b528657c26c0fdce746c70d31a
+Author: Haksanyi <haksanyi@gmail.com>
+Date:   Thu Nov 9 17:52:17 2017 +0100
+
+    otheres
+
+commit a82d31f13e19bdf58627a047163ecdb608afecea
+Author: Haksanyi <haksanyi@gmail.com>
+Date:   Thu Nov 9 17:49:16 2017 +0100
+
+    Harmadik verzio
+
+commit 311140e27a6f43bfaf79b85a7630b965d3548449
+Author: Haksanyi <haksanyi@gmail.com>
+Date:   Thu Nov 9 17:45:15 2017 +0100
+
+    komment
+
+commit d7e09456ae8e75047b2d54c55126018461a4a7d3
+Author: Haksanyi <haksanyi@gmail.com>
+Date:   Thu Nov 9 17:41:43 2017 +0100
+
+    Elso commit
